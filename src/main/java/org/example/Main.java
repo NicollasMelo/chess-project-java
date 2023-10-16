@@ -8,5 +8,6 @@ public class Main {
 
         ChessMatch chessMatch = new ChessMatch();
         UI.printBoard(chessMatch.getPieces());
+        System.out.print("Test branch");
     }
 }
